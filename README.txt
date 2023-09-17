@@ -1,3 +1,5 @@
+SCRIPTS LISTOS PARA INSERTAR EN LINEA DE COMANDOS PARA MONGODB
+
 En el siguiente archivo comprimido, se incluye 
 dos documentos WORD:
 
